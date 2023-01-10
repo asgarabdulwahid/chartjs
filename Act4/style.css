@@ -1,0 +1,14 @@
+
+  div {
+      display: flex; 
+      justify-content: center;
+    }
+div > div {
+    width: 70%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  h1 {
+    text-align: center;
+  }
